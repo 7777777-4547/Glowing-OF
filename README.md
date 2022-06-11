@@ -18,6 +18,7 @@
 <br/>
   <img src="./img/2022-01-01_19.40.22.png">
 <br/>
+  <img src="./img/2022-06-11_20.31.32.png">
+<br/>
   <img src="./img/GIF 2022-4-16 23-09-59.gif" height="325">
-  <img src="./img/GIF 2022-5-8 22-32-18.gif" height="325">
 </div>
