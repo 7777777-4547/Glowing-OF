@@ -1,7 +1,7 @@
 <div align=center>
   <img src="./pack.png" width="128">
   <h2>Glowing</h2>
-  Use Optifine format let some blocks and items glow
+  Use Optifine format let some blocks, items and entities glow.
   <h2>Showcase</h2>
 <br/>
   <img src="./img/2022-05-27_06.55.38.png">
